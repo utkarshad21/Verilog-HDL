@@ -4,7 +4,7 @@
 // 
 // Create Date: 10.01.2024 15:55:09
 // Design Name: counter_updown_load.v
-// Module Name: counter_up_load
+// Module Name: counter_updown_load
 // Project Name: Updown Counter 
 //
 // Description: This project implements an 8-bit up/down counter with load functionality in Verilog. 
